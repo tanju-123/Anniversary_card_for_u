@@ -1,6 +1,38 @@
-Md Tanjil Hussain
-12023052003154
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8">
+  <title>Happy Anniversary Aastha ❤️</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <div class="container">
+    <h1 class="title">Happy 2 Year 8 Month Anniversary, Aastha ❤️</h1>
+    <p class="meta">क्योंकि तेरे साथ हर महीना एक नए फूल की तरह खिलता है।</p>
 
-IEM , Salt Lake Kolkata.
+    <div class="counter">
+      <div>
+        <div class="number">2</div>
+        <div class="small">साल</div>
+      </div>
+      <div>
+        <div class="number">8</div>
+        <div class="small">महीने</div>
+      </div>
+    </div>
 
-I'm a 3rd Year B.Tech Student.
+    <button id="revealBtn" class="btn">💌 दिल खोलो</button>
+
+    <div id="typed" class="message"></div>
+
+    <div class="actions">
+      <button id="copyBtn" class="btn">📋 Copy</button>
+      <button id="shareBtn" class="btn">📤 Share</button>
+      <button id="saveBtn" class="btn">💾 Save</button>
+    </div>
+  </div>
+
+  <canvas id="confetti"></canvas>
+</body>
+</html>
